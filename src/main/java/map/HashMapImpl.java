@@ -14,6 +14,8 @@ public class HashMapImpl {
             System.out.println(entry.getKey() + " " + entry.getValue());
         }
 
+
+
     }
 
 }
